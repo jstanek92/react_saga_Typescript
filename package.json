@@ -37,7 +37,7 @@
     "clean-terminal-webpack-plugin": "^1.1.0",
     "d3": "^5.9.2",
     "format-number": "^3.0.0",
-    "moment": "^2.22.2",
+    "moment": "^2.29.2",
     "path-to-regexp": "^2.2.1",
     "prettier": "^1.16.4",
     "rd-redux-forms": "^5.3.3",
