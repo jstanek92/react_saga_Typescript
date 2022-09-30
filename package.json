@@ -35,7 +35,7 @@
     "awesome-typescript-loader": "^5.2.1",
     "classnames": "^2.2.6",
     "clean-terminal-webpack-plugin": "^1.1.0",
-    "d3": "^5.9.2",
+    "d3": "^7.6.1",
     "format-number": "^3.0.0",
     "moment": "^2.22.2",
     "path-to-regexp": "^2.2.1",
